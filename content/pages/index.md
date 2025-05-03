@@ -16,7 +16,8 @@ sections:
     title: Welcome to the Kingstonbrany website
     subtitle: >-
       This is a demo website specifically designed to show u that i can also
-      build a website so in simple
+      build a website so in simple Terms im trying to say that im creating dis
+      web for fun.
     styles:
       self:
         height: auto
