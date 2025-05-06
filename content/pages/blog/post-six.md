@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: All it takes you is watching a movie that u lov not reading books of math.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/bg4.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
