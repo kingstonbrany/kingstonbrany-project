@@ -4,7 +4,7 @@ title: How to design your very own web
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: All it takes you is watching a movie that u lov not reading books of math.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
