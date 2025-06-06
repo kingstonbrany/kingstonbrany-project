@@ -22,7 +22,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/IMG-20250516-WA0038~2.jpg
-      altText: Hero image
+      altText: HACKER
     styles:
       self:
         height: auto
