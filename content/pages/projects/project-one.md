@@ -7,7 +7,7 @@ client: Awesome client
 description: 'Yap, I guess you finely fell for it.'
 featuredImage:
   type: ImageBlock
-  url: /images/b23bc8e3ed7fa43360c143104b964a54.jpg
+  url: /images/18279d7d2d24800a60c7bf7ecd2c48e44c5ab0c47d019e05.avif
   altText: Project thumbnail image
 media:
   type: ImageBlock
