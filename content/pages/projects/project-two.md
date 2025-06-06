@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/gallery-3.jpg
+  url: /images/OIP.jfif
   altText: Project thumbnail image
 media:
   type: ImageBlock
