@@ -9,7 +9,7 @@ description: >-
   u see it clearly
 featuredImage:
   type: ImageBlock
-  url: /images/gallery-1.jpg
+  url: /images/OIP (2).jfif
   altText: Project thumbnail image
 media:
   type: ImageBlock
