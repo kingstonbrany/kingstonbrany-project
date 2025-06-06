@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: ' Welcome to the Gamer''s Blog'
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
