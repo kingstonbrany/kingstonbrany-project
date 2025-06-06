@@ -14,15 +14,15 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Hey I’m a the Hacker. I’ve been born and raised in the world of
+      Programming and Gaming, and that’s also where I’m based. I’m currently a
+      free agent, ex-this, ex-that, ex-super big Hacker. When I’m not coding,
+      writing or creating, I eat Kikomando. I have a website, check it out.
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      url: /images/IMG-20250516-WA0038~2.jpg
+      altText: HACKER
     styles:
       self:
         height: auto
