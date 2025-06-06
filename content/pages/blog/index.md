@@ -28,7 +28,7 @@ postFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Blog
+    title: Welcome to the Gamer's Blog
     subtitle: ''
     actions: []
     colors: colors-f
